@@ -1,0 +1,9 @@
+curl -X 'POST' \
+ 'http://localhost:5288/ExchangeService' \
+ -H 'accept: text/plain' \
+ -H 'Content-Type: application/json' \
+ -d '{
+ "amount": 5,
+ "inputCurrency": "AUD",
+ "outputCurrency": "USD"
+}'

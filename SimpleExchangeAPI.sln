@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExchangeAPI", "SimpleExchangeAPI\SimpleExchangeAPI.csproj", "{7C724953-37F7-4EA6-A789-4542D52F123A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExchangeAPI.Tests", "SimpleExchangeAPI.Tests\SimpleExchangeAPI.Tests.csproj", "{18A1EB23-A409-4572-B7D9-28DA00E2005D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C724953-37F7-4EA6-A789-4542D52F123A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C724953-37F7-4EA6-A789-4542D52F123A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C724953-37F7-4EA6-A789-4542D52F123A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C724953-37F7-4EA6-A789-4542D52F123A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A1EB23-A409-4572-B7D9-28DA00E2005D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A1EB23-A409-4572-B7D9-28DA00E2005D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A1EB23-A409-4572-B7D9-28DA00E2005D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A1EB23-A409-4572-B7D9-28DA00E2005D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

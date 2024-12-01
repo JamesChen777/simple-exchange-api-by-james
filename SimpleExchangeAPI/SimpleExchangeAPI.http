@@ -1,0 +1,6 @@
+@SimpleExchangeAPI_HostAddress = http://localhost:5288
+
+GET {{SimpleExchangeAPI_HostAddress}}/ExchangeService3/
+Accept: application/json
+
+###
