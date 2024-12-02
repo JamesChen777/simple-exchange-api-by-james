@@ -45,7 +45,7 @@ It depends on your existing IT infrastructure, e.g. whether your team uses DevOp
 I am very confident in solving all of any technical issues.
 
 
-Last but not least, the naming convention and/or conding styles can be changed of course to suit your teams needs for coding convention, e.g. class members such as fields, properties, methods as well as local variable naming convention, and use of OOD/OOP and suitable design patterns on higher level in application architecture and more granular levels in blocks of code, etc. I have a lot of experience on full-stack .NET project development and can give you excellent results very quickly. My phone number is 0404393072, call me if you need. I can work on-site, hybrid, or remotely. Thank you for your time!
+Last but not least, the naming convention and/or conding styles can be changed of course to suit your teams needs for coding convention, e.g. class members such as fields, properties, methods as well as non-class member such as local variable naming convention, and use of OOD/OOP, SOLID and suitable Creational/Structural/Behavioral design patterns on higher level in application architecture and more granular levels in smaller sections of code, etc. I have a lot of experience on full-stack .NET project development in complete SDLC and can give you excellent results very quickly. My phone number is 0404393072, call me if you need. I can work on-site, hybrid, or remotely. Thank you for your time!
 
 
 Sincerely,
